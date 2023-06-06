@@ -146,11 +146,6 @@
                  "value":"Tape 'Espace' pour rejoindre la conf\u00e9rence"
                 }, 
                 {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/meet.holidee.fr"
-                }, 
-                {
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":false
@@ -213,11 +208,6 @@
                  "value":"team"
                 }, 
                 {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/meet.holidee.fr"
-                }, 
-                {
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":false
@@ -278,11 +268,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"team"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/meet.holidee.fr"
                 }, 
                 {
                  "name":"openWebsiteClosable",
