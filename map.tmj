@@ -450,7 +450,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":228,
+                 "height":96,
                  "id":20,
                  "name":"ChatZone",
                  "properties":[
@@ -468,8 +468,8 @@
                  "type":"area",
                  "visible":true,
                  "width":639,
-                 "x":640,
-                 "y":639
+                 "x":644,
+                 "y":863
                 }],
          "opacity":1,
          "type":"objectgroup",
