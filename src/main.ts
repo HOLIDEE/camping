@@ -11,6 +11,10 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
+    WA.room.area.onEnter('to-factory').subscribe(() => {
+        cWA.nav.goToPage('https://flower.holidee.fr/@/FLOWER/factory#from-camping');
+    })
+
     WA.room.area.onEnter('clock').subscribe(() => {
         const today = new Date();
         const time = today.getHours() + ":" + today.getMinutes();
