@@ -12,7 +12,7 @@ WA.onInit().then(() => {
     console.log('Player tags: ',WA.player.tags)
 
     WA.room.area.onEnter('to-factory').subscribe(() => {
-        cWA.nav.goToPage('https://flower.holidee.fr/@/FLOWER/factory#from-camping');
+        WA.nav.goToPage('https://flower.holidee.fr/@/FLOWER/factory#from-camping');
     })
 
     WA.room.area.onEnter('clock').subscribe(() => {
