@@ -11,10 +11,6 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
-    WA.room.area.onEnter('to-factory').subscribe(() => {
-        WA.nav.goToPage('https://meta.holidee.fr/@/HOLIDEE/factory#from-camping');
-    })
-
     WA.room.area.onEnter('clock').subscribe(() => {
         const today = new Date();
         const time = today.getHours() + ":" + today.getMinutes();
