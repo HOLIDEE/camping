@@ -1124,12 +1124,6 @@
                  "height":96,
                  "id":21,
                  "name":"to-factory",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"factory#from-camping"
-                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
