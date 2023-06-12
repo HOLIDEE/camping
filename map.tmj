@@ -1126,7 +1126,7 @@
                  "name":"to-factory",
                  "properties":[
                         {
-                         "name":"exitUrl",
+                         "name":"exitSceneUrl",
                          "type":"string",
                          "value":"https:\/\/flower.holidee.fr\/@\/FLOWER\/factory#from-camping"
                         }],
