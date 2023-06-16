@@ -128,7 +128,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"FlowerCampingMiniclub"
+                 "value":"FlowerCampingsMiniclub"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -200,7 +200,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"FlowerCampingTerrasse"
+                 "value":"FlowerCampingsTerrasse"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -272,7 +272,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"FlowerCampingPetanque"
+                 "value":"FlowerCampingsPetanque"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
