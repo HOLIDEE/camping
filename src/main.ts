@@ -10,7 +10,7 @@ let currentPopup: any = undefined;
 WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
-		currentPopup = WA.ui.openPopup("welcomePopup", "Bienvenue à la formation 'Animateur' Flower Campings by Holidée & nxlvl ! \r \r La formation se déroulera en visio principalement sur la terrasse \r \r Les espaces viso sont matérialisés par un trait vert \r Une fois arrivé dans une zone de visio il faut taper espace pour rejoindre la conversation. \r \r Pour te rendre directement sur la terrasse clique sur ce bouton :", [{
+		currentPopup = WA.ui.openPopup("welcomePopup", "Bienvenue à la formation 'Animateur' Flower Campings by Holidée & nxlvl ! \r \r La formation se déroulera en visio principalement sur la terrasse \r \r Les espaces visio sont matérialisés par un trait vert \r Une fois arrivé dans une zone de visio il faut taper 'Espace' pour rejoindre la conversation. \r \r Pour te rendre directement sur la terrasse, clique sur ce bouton :", [{
 			label: "MARCHER VERS LA TERRASSE",
 			className: "primary",
 			callback: () => {
